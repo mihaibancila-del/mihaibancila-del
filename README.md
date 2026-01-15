@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihai Bancila</h1>
-<h3 align="center">A passionate frontend developer from VocalEdge Solution</h3>
+<h3 align="left">Frontend developer from VocalEdge Solution</h3>
 
 - 🔭 I’m currently working on **Frontend development**
 
