@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mihai Bancila</h1>
+<h1 align="left">Hi 👋, I'm Mihai Bancila</h1>
 <h3 align="left">Frontend developer from VocalEdge Solution</h3>
+<h4 align="left">This is the Company Github Profile</h4>
 
-- 🔭 I’m currently working on **Frontend development**
-
-- 💬 I like to talk about **Design, Tech**
-
+---
+- 🔭 I’m currently working on **Software development**
 - 📫 How to reach me **mihai.bancila@vocaledgesolutions.com**
+- This is the Company Github Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
