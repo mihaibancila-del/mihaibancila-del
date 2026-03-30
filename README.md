@@ -8,6 +8,7 @@
 - This is the Company Github Profile
 
 <h3 align="left">Connect with me:</h3>
+<a href="mailto:mihai.bancila@vocaledgesolutions.com">mihai.bancila@vocaledgesolutions.com</a>
 <p align="left">
 </p>
 
